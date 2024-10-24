@@ -75,9 +75,6 @@ Implement LLMs (ChatGPT, Gemma, LLaMA) to instantly translate quizzes and exams 
 ### Text to Video
 - Explore text-to-video features in tools like OpenAI's Sora to create educational documentaries. [Sora](https://openai.com/sora)
 
-### Midjourney, Dall-E, and Bing Image Creating
-- Use advanced prompt engineering with Midjourney, Dall-E, and Bing to create custom images for presentations and promote visual learning. [Instagram](https://www.instagram.com/zebonastic.ai/)
-
 ### Chatbot Application Development Using Zoom Lecture Transcriptions
 - Leverage LLMs (ChatGPT, Gemma, LLaMA) to automate administrative tasks and provide personalized support by utilizing Zoom lecture transcriptions.
 
