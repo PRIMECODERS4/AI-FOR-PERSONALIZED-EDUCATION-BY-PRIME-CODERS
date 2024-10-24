@@ -1,6 +1,6 @@
 # Chat with any Website
 
-Chat with any Website is a project created by Agash Uthayasuriyan that utilizes Pinecone, OpenAI Embeddings, OpenAI LLM, and Streamlit to create a chat interface integrated with a website. This project aims to demonstrate the integration of advanced language models and embeddings to facilitate engaging and responsive interactions within a website.
+Chat with any Website is a project created by 𝗡𝗮𝗺𝗮𝗻 𝗦𝗶𝗻𝗴𝗵 that utilizes Pinecone, OpenAI Embeddings, OpenAI LLM, and Streamlit to create a chat interface integrated with a website. This project aims to demonstrate the integration of advanced language models and embeddings to facilitate engaging and responsive interactions within a website.
 
 ## Problem Statement
 GPTs such as ChatGPT are unable to give information about latest updates happening in the world. When there is a tech. product or a news that is released, current GPTs are unable to give reliable information about the same. This project aims to bridge the gap and presents a conversational bot between the user and the website. This would be beneficial for the user to quickly pull information from the website without spending much time in reading the entire content.
